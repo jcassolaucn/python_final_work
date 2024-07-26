@@ -54,7 +54,7 @@ Esto abrirá la aplicación en tu navegador predeterminado.
 
 ### Descripción de los Archivos
 <ul>
-    <li>dataset.csv: Contiene los datos meteorológicos con las siguientes columnas:</li>
+    <li>data.csv: Contiene los datos meteorológicos con las siguientes columnas:</li>
         <ul>
           <li>fecha</li>
           <li>so2_validado</li>
@@ -70,8 +70,8 @@ Esto abrirá la aplicación en tu navegador predeterminado.
             <li>mp_10_validado</li>
             <li>mp_10_no_validado</li>
         </ul>
-      <li>data_analysis.ipynb: Notebook Jupyter que contiene el análisis exploratorio de datos (EDA) y la construcción del modelo predictivo.</li>
-      <li>app.py: Script de la aplicación web Streamlit que permite a los usuarios interactuar con los datos y visualizar los resultados del análisis.</li>
+      <li>air_quality.ipynb: Notebook Jupyter que contiene el análisis exploratorio de datos (EDA) y la construcción del modelo predictivo.</li>
+      <li>web_page.py: Script de la aplicación web Streamlit que permite a los usuarios interactuar con los datos y visualizar los resultados del análisis.</li>
 </ul>
 
 ## Análisis Exploratorio de Datos (EDA)
